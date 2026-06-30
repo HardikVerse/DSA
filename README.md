@@ -4,17 +4,23 @@ This repository contains my Data Structures & Algorithms (DSA) journey in Python
 
 ## Topics
 
-- [x] Basic Math Logic Building
+- [x] Basics of Programming
+- [ ] Sorting Algorithms
 - [ ] Arrays
-- [ ] Strings
-- [ ] Recursion
-- [ ] Hashing
-- [ ] Sorting
 - [ ] Binary Search
+- [ ] Strings
 - [ ] Linked List
-- [ ] Trees
+- [ ] Bit Manipulation
+- [ ] Recursion & Backtracking
+- [ ] Stacks & Queues
+- [ ] Sliding Window & Two Pointers
+- [ ] Greedy
+- [ ] Binary Trees
+- [ ] Binary Search Trees
+- [ ] Heaps
 - [ ] Graphs
 - [ ] Dynamic Programming
+- [ ] Tries
 
 ## Language
 - Python 
