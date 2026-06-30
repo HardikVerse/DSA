@@ -1,15 +1,22 @@
 """
-Problem: Extraction of Digits from an Integer
+Problem: Extract Digits in Reverse Order
 
 Approach:
-- Extract the last digit using % 10.
-- Remove the last digit using // 10.
-- Use abs() to handle negative numbers.
+- Modulus (%)
+- Floor Division (//)
 
-Time Complexity: O(log10 N)
-Space Complexity: O(1)
+Time Complexity:
+- O(log10 N)
+
+Space Complexity:
+- O(1)
+
+Concepts:
+- Digit Manipulation
+- Modulus (%)
+- Floor Division (//)
+- Edge Cases (0, Negative Numbers)
 """
-
 
 def reverseExtraction(num):
     if num == 0:
